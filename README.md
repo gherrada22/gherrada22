@@ -1,4 +1,14 @@
-# 💫 About Me:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
+
+## Hi I'm George Herrada Farfán <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"/>
+
+<br>
+
+Logical and results-oriented full stack developer with a strong love for the front end. Dedicated to building users. Judicious and creative in crafting effective solutions to drive competitive advantage and revenue growth as per client requirements. Analytical in problem solving with a calm and focused demeanor and open to receiving feedback.
+<br>
+
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+
 💻 I am currently studying for a degree in Systems Engineering.<br>🤔 I’m looking for help with outstanding project ideas. <br>🐰 I’m looking to collaborate with any Open - Source web projects. <br>📫 How to reach me: gherrada@autonoma.edu.pe. <br>⚡ Fun fact: I always try to learn something new and then sleep till it stores in the brain.
 
 
