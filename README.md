@@ -26,4 +26,7 @@ Logical and results-oriented full stack developer with a strong love for the fro
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
+
+---
 [![](https://visitcount.itsvg.in/api?id=gherrada22&icon=7&color=6)](https://visitcount.itsvg.in)
