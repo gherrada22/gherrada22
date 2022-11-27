@@ -9,7 +9,7 @@ Logical and results-oriented full stack developer with a strong love for the fro
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-💻 I am currently studying for a degree in Systems Engineering.<br>🤔 I’m looking for help with outstanding project ideas. <br>🐰 I’m looking to collaborate with any Open - Source web projects. <br>📫 How to reach me: gherrada@autonoma.edu.pe. <br>⚡ Fun fact: I always try to learn something new and then sleep till it stores in the brain.
+💻 I am currently studying for a degree in Systems Engineering.<br>🤔 I’m looking for help with outstanding project ideas. <br>🐰 I’m looking to collaborate with any Open - Source web projects. <br>📫 How to reach me: georgeherradafarfan@pm.me. <br>⚡ Fun fact: I always try to learn something new and then sleep till it stores in the brain.
 
 
 ## 🌐 Socials:
