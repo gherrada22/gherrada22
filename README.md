@@ -22,8 +22,15 @@ Logical and results-oriented full stack developer with a strong love for the fro
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gherrada22&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gherrada22&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=gherrada22&icon=7&color=6)](https://visitcount.itsvg.in)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
+
+
